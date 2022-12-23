@@ -71,12 +71,7 @@
     "spinnies": "^0.5.1",
     "util": "^0.12.4",
     "yargs": "^17.2.1",
-  },
-  "devDependencies": {},
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/KirBotz/Baileys.git"
-  },
+    },
   "bugs": {
     "url": "https://github.com/KirBotz/Baileys/issues"
   },
